@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# C++ build
+build/
+vcpkg_installed/
+CMakeUserPresets.json
+
+# Frontend build
+frontend/dist/
+frontend/node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

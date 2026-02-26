@@ -1,0 +1,11 @@
+{
+  "name": "cpp-text-intelligence",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "crow",
+    "nlohmann-json",
+    "openssl",
+    "curl",
+    "tomlplusplus"
+  ]
+}
