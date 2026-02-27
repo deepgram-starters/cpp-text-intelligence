@@ -11,6 +11,7 @@
 //   - JWT session auth with rate limiting (production only)
 
 #include <crow.h>
+#include <crow/middlewares/cors.h>
 #include <nlohmann/json.hpp>
 #include <toml++/toml.hpp>
 #include <curl/curl.h>
